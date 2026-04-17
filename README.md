@@ -8,20 +8,20 @@ The project demonstrates how relational databases are used in real-world applica
 
 # 🗂️ Dataset
 
-.Product
-.events
-.order_items
-.orders
-.reviews
-.users
+Product
+events
+order_items
+orders
+reviews
+users
 
 # 🔍 Key Analysis
-.Revenue analysis 
-.Monthly and yearly sales trend analysis
-.Product performance analysis 
-.Highest revenue product
-.Top Customers
-.Users with highest spending city-wise
+Revenue analysis 
+Monthly and yearly sales trend analysis
+Product performance analysis 
+Highest revenue product
+Top Customers
+Users with highest spending city-wise
 
 # 🧰 Tools Used
 Database: MySQL
